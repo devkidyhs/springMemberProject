@@ -126,7 +126,7 @@ div.HStyle17
 <P CLASS=HStyle0><h3>- 프로젝트 컨텍스트 루트(root-context)</h3></P>
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/root-context.png">
 <br>
-<P CLASS=HStyle0><h3>- 프로젝트 실행영상</h3></P>
+<P CLASS=HStyle0><h3>- 프로젝트 실행영상(link)</h3></P>
 	
 [![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M/)
 <br>
