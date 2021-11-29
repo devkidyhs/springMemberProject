@@ -119,17 +119,26 @@ div.HStyle17
 </HEAD>
 
 <BODY>
-
+<P CLASS=HStyle0><h3>- 프로젝트 실행영상(link)</h3></P>
+	
+[![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M/)
+<br>
 <P CLASS=HStyle0><h3>- 프로젝트 로드맵(Roadmap)</h3></P>
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/roadmap.png">
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 컨텍스트 루트(root-context)</h3></P>
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/root-context.png">
 <br>
-<P CLASS=HStyle0><h3>- 프로젝트 실행영상(link)</h3></P>
-	
-[![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M/)
+<P CLASS=HStyle0><h3>- 프로젝트 서블릿 컨텍스트(servlet-context)</h3></P>
+<img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/servlet-context.PNG">
 <br>
+<P CLASS=HStyle0><h3>- 프로젝트 주소(URL mapping)</h3></P>
+<img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/url_mappings.png">
+<br>
+<P CLASS=HStyle0><h3>- 프로젝트 ERD</h3></P>
+<img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/ERD.PNG">
+<br>
+	
 <P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
 
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
