@@ -130,7 +130,7 @@ div.HStyle17
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/root-context.png">
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 실행영상</h3></P>
-<iframe width="640" height="360" src="https://youtu.be/j2nl3AS3G8M" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/j2nl3AS3G8M)
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
 
