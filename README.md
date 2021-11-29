@@ -6,8 +6,6 @@
 <HEAD>
 <META NAME="Generator" CONTENT="Hancom HWP 9.6.1.6189">
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-<TITLE></TITLE>
-<STYLE type="text/css">
 <!--
 p.HStyle0
 	{style-name:"바탕글"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:normal; font-style:normal; color:#000000;}
@@ -118,7 +116,6 @@ li.HStyle17
 div.HStyle17
 	{style-name:"차례 3"; margin-left:22.0pt; margin-top:0.0pt; margin-bottom:7.0pt; text-align:left; text-indent:0.0pt; line-height:160%; font-size:11.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:normal; font-style:normal; color:#000000;}
 -->
-</STYLE>
 </HEAD>
 
 <BODY>
@@ -130,7 +127,8 @@ div.HStyle17
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/root-context.png">
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 실행영상</h3></P>
-[![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M?t=0s)
+	
+[![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M/)
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
 
