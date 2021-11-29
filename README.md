@@ -130,7 +130,7 @@ div.HStyle17
 <img src="https://github.com/devkidyhs/springMemberProject/blob/master/show/root-context.png">
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 실행영상</h3></P>
-[![Video Label](https://img.youtube.com/vi/j2nl3AS3G8M/maxresdefault.jpg)](https://youtu.be/j2nl3AS3G8M)
+[![프로젝트 실행영상](https://img.youtube.com/vi/j2nl3AS3G8M/0.jpg)](https://youtu.be/j2nl3AS3G8M?t=0s)
 <br>
 <P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
 
